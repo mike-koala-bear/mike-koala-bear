@@ -3,7 +3,11 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🐨🐨 I want to learn how to make a signup page!!!
+
+
+<!---
+🐨🐨 I want to learn how to make a signup page!!!
+--->
 
 <!---
 mike-koala-bear/mike-koala-bear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
