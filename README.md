@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mike-koala-bear&theme=onedark)](https://github.com/mike-koala-bear/github-profile-trophy)
+![mike-koala-bear's stats](https://github-readme-stats.vercel.app/api?username=mike-koala-bear&show_icons=true)
 
 <!---
 mike-koala-bear/mike-koala-bear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
