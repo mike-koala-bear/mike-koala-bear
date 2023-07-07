@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Kira The Koala Bear!!
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning programming and ruby on rails 
 - 💞️ I’m looking to collaborate on ...
