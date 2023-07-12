@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+![](https://komarev.com/ghpvc/?username=mike-koala-bear&color=blueviolet)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mike-koala-bear&theme=onedark)](https://github.com/mike-koala-bear/github-profile-trophy)
 ![mike-koala-bear's stats](https://github-readme-stats.vercel.app/api?username=mike-koala-bear&show_icons=true&theme=radical)
 ![mike-koala-bear's stats](https://github-readme-stats.vercel.app/api/top-langs?username=mike-koala-bear&show_icons=true&locale=en&layout=compact&theme=great-gatsby)
