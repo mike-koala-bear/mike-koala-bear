@@ -1,7 +1,5 @@
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming and ruby on rails 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in **programming**
+- 🌱 I’m currently learning **ruby on rails**
 
 ![](https://komarev.com/ghpvc/?username=mike-koala-bear&color=blueviolet)
 
