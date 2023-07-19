@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike-koala-bear&label=Profile%20views&color=blueviolet&style=flat" alt="mike-koala-bear" /> </p>
 
-- 🔭 I’m currently working on [capybara](https://github.com/mike-koala-bear/capybara)
+- 🔭 I’m currently working on [my capybara project](https://github.com/mike-koala-bear/capybara)
 
 - 🌱 I’m currently learning **ruby on rails**
 
